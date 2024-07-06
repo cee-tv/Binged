@@ -1,0 +1,22 @@
+{
+    "name": "Binged",
+    "short_name": "Binged",
+    "description": "Watch your favorite Movies, TV Shows online in Dub or Sub for Free on Binged.live",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#18181d",
+    "background_color": "#18181d",
+    "display": "standalone",
+    "start_url": "/",
+	"version": "1.2.3"
+}
